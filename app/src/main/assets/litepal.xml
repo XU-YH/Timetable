@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname vaule = "ClassTable"></dbname>
+    <vresion vaule="1"></vresion>
+    <list >
+        <mapping class = "com.example.me07.Teacher"></mapping>
+    </list>
+</litepal>
